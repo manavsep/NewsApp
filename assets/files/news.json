@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "AP|New York",
+      "title": "Russia wants to drain Europe's investigations with sabotage campaign",
+      "description": "In November, a train carrying almost 500 people came to a sudden halt in eastern Poland. A broken overhead line had smashed several windows, and the track ahead was damaged. Elsewhere on the line, explosives detonated under a passing freight train.\n\nNo one was hurt in either case and the damage was limited, but Poland, which blamed the attack on Russia's intelligence services, responded forcefully: It deployed 10,000 troops to protect critical infrastructure.\n\nThe sabotage in Poland is one of 145 incidents in an Associated Press database that Western officials say are part of a campaign of disruption across Europe masterminded by Russia.",
+      "url": "https://www.business-standard.com/world-news/russia-wants-to-drain-europe-s-investigations-with-sabotage-campaign-125121800384_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/13/full/1757754903-9439.jpg?im=FitAndFill=(826,465)",
+      "publishedAt": "2025-12-18T07:32:00Z",
+      "content": "While the campaign places a heavy burden on European security services, it costs Russia next to nothing, officials say | Representative Image"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CounterPunch"
+      },
+      "author": "Jeffrey St. Clair",
+      "title": "Hell and High Water: the Year in Climate Chaos",
+      "description": "2024 will be the warmest year on record, the year warming topped 1.5 degrees Celsius. It’s the year the US set new oil and gas production records, surpassing Saudi Arabia and Russia. It’s a year that saw the US re-elect a climate denier who vows to double US oil production over these record levels, assuming that’s even possible.",
+      "url": "https://www.counterpunch.org/2024/12/20/hell-and-high-water-the-year-in-climate-chaos/",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2024/12/flaglongview-scaled.jpeg",
+      "publishedAt": "2024-12-20T06:59:11Z",
+      "content": "Industrial plants, Port of Longview. Photo: Jeffrey St. Clair."
+    },
+    {
+      "source": {
+      "id": null,
+      "name": "Neuwritesd.org"
+    },
+      "author": "Vani Taluja",
+      "title": "A 3D Camera for the Brain: The Simplified Science of MRI",
+      "description": "Have you ever dreamed of having Superman’s power of “X-Ray Vision,” or the ability to see through solid objects? While it is uncertain if this superpower was their motivation, medical researchers and physical scientists in the 1970s were able to turn this dream into reality.",
+      "url": "https://neuwritesd.org/2024/12/19/a-3d-camera-for-the-brain-the-simplified-science-of-mri/",
+      "urlToImage": "https://neuwritesd.org/wp-content/uploads/2024/12/mris.jpeg?w=1200",
+      "publishedAt": "2024-12-20T04:52:29Z",
+      "content": "Posted by Vani Taluja on December 19, 2024 in NeuWrite, Physics and Neuroscience"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Ahmad Ghaddar",
+      "title": "Oil rises as Trump's Venezuela blockade stokes uncertainty",
+      "description": "Oil prices rallied more than 1% on Wednesday after U.S. President Donald Trump ordered what he called a complete blockade of all sanctioned oil tankers entering and leaving Venezuela, raising global political tensions and easing concerns about a growing surplus of global crude.\nBrent crude futures were up 99 cents, or 1.68%, at $59.91 a barrel at 1606 GMT, while U.S. West Texas Intermediate crude was up 93 cents, or 1.68%, to $56.20 a barrel.",
+      "url": "https://www.reuters.com/business/energy/oil-up-15-trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-2025-12-17/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/AB7XPAO7WRK4LB3JJBYKVBZGVQ.jpg?auth=c2769b3214917cc6e1b9eedd5a3c7140a808b528153fbceee8ce232c6641f3d0&width=960&quality=80",
+      "publishedAt": "2025-12-17T16:55:00Z",
+      "content": "A drone view of a pump jack and drilling rig south of Midland, Texas, U.S. June 11, 2025. REUTERS/Eli Hartman/File Photo"
+    }
+  ]
+
+}
